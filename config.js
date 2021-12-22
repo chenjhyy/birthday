@@ -49,7 +49,7 @@ var config = {
         bannar_coming: "幼儿动画开始了",
         balloons_flying: "好像少点东西",
         cake_fadein: "整个蛋糕",
-        light_candle: "插点蜡烛",
+        light_candle: "点燃蜡烛",
         wish_message: "生日快乐！！！",
         story: "A MESSAGE FOR YOU",
     }
