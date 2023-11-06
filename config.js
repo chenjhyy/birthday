@@ -43,8 +43,8 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "START",
-        play: "生日歌",
-        bannar_coming: "小装饰",
+        play: "放音乐！",
+        bannar_coming: "小横幅",
         balloons_flying: "嘟",
         cake_fadein: "小蛋糕",
         light_candle: "点火",
