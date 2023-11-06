@@ -27,7 +27,7 @@ var config = {
         "幸福好运常相伴",
         "代码是抄的 嘿嘿",
         "生日快乐宝宝",
-        "我爱你～"
+        "我爱你～",
         "还有别的悄悄话一会告诉你...",
     ],
     /**
@@ -45,7 +45,7 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Turn on lights",
+        turn_on: "先开灯",
         play: "放音乐！",
         bannar_coming: "小横幅",
         balloons_flying: "嘟",
